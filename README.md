@@ -1,6 +1,6 @@
 # Smart Shunt Meter
 
-Precision Arduino based DC Current Meter
+Precision Arduino based DC Current Meter with Touch Screen Interface
 
 Uses an Arduino UNO WiFi Rev2, NX8048T050 Nextion display, Iowa Scaled ARD-LTC2499 ADC Shield, and a 
 Riedon SSA series current sensor in either a 100, 250, 500, or 1000 amp version.

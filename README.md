@@ -1,4 +1,4 @@
-# smart_shunt_meter
+# Smart Shunt Meter
 
 Precision Arduino based DC Current Meter
 

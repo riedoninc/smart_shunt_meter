@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F16522;}
+	.st1{font-family:'Arial-BoldMT';}
+	.st2{font-size:30px;}
+	.st3{fill:#FFFFFF;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-size:14px;}
+	.st6{fill:none;stroke:#206AB4;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<g id="Outline">
+	<rect x="61.41" y="206.93" width="444.1" height="266.46"/>
+	<text transform="matrix(1 0 0 1 91.7756 245.1972)" class="st0 st1 st2">Smart Shunt Current Meter</text>
+</g>
+<g id="Fills">
+	<g>
+		<text transform="matrix(1.1666 0 0 1 122.8568 452.1265)" class="st3 st4 st5">Shunt</text>
+		<g>
+			<path class="st6" d="M198.43,459.21c0,1.56-1.28,2.83-2.83,2.83H87.87c-1.56,0-2.83-1.28-2.83-2.83v-22.68
+				c0-1.56,1.28-2.83,2.83-2.83h107.72c1.56,0,2.83,1.28,2.83,2.83V459.21z"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1.1666 0 0 1 254.303 452.3559)" class="st3 st4 st5">Network</text>
+		<g>
+			<path class="st6" d="M338.74,459.44c0,1.56-1.28,2.83-2.83,2.83H228.19c-1.56,0-2.83-1.28-2.83-2.83v-22.68
+				c0-1.56,1.28-2.83,2.83-2.83h107.72c1.56,0,2.83,1.28,2.83,2.83V459.44z"/>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1.1666 0 0 1 408.019 452.1265)" class="st3 st4 st5">Zero</text>
+		<g>
+			<path class="st6" d="M479.06,459.21c0,1.56-1.28,2.83-2.83,2.83H368.5c-1.56,0-2.83-1.28-2.83-2.83v-22.68
+				c0-1.56,1.28-2.83,2.83-2.83h107.72c1.56,0,2.83,1.28,2.83,2.83V459.21z"/>
+		</g>
+	</g>
+</g>
+<g id="Text__x26__Arrows">
+</g>
+</svg>
